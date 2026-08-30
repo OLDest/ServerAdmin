@@ -7,6 +7,17 @@ Current version: **1.1.0.373**
 Download: https://download.agbis.co/download/admin_tools/ServerAdmin.zip  
 Checksum: https://download.agbis.co/download/admin_tools/ServerAdmin.zip_crc
 
+
+## Screenshots
+
+![ServerAdmin workspace](https://serveradmin.su/assets/screenshots/vcl-workspace.png?v=1.1.0.373)
+
+![Server monitoring](https://serveradmin.su/assets/screenshots/vcl-monitoring.png?v=1.1.0.373)
+
+![Embedded VM console](https://serveradmin.su/assets/screenshots/vcl-console.png?v=1.1.0.373)
+
+![Web dashboard](https://serveradmin.su/assets/screenshots/web-dashboard.png?v=1.1.0.373)
+
 ## Русский
 
 **ServerAdmin** — бесплатное Windows-приложение для управления серверами Proxmox и виртуальными машинами Windows из единого интерфейса.
