@@ -4,10 +4,12 @@
 
 Official website: https://serveradmin.su/  
 Current version: **1.1.0.373**  
-Download: https://download.agbis.co/download/admin_tools/ServerAdmin.zip  
-CRC: https://download.agbis.co/download/admin_tools/ServerAdmin.zip_crc  
+Download: https://download.agbis.co/download/admin_tools/ServerAdmin/ServerAdmin-1.1.0.373.zip  
+CRC: https://download.agbis.co/download/admin_tools/ServerAdmin/ServerAdmin-1.1.0.373.zip_crc  
 SHA-256: `042B801474525AABAC1B8C2CD0E3E4C268B25A06AB26E6ECD4E709B36B1C63AC`
 
+
+Privacy policy: [English](https://serveradmin.su/en/privacy/) · [Русский](https://serveradmin.su/privacy/) · [Repository copy](PRIVACY.md)
 
 ## Screenshots
 
